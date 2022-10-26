@@ -1,6 +1,7 @@
 # Seam Carving
 
 Seam Carving algorithm implement based on C++ and OpenCV. 
+
 This is a modified version of my previous work (cooperated with others, https://github.com/Meidozuki/SeamCarve2022Spring).
 
 ## Dependencies
